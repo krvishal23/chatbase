@@ -1,0 +1,6 @@
+{
+  "name": "PulseChat - Real-Time Messenger",
+  "description": "Full-stack real-time chat application built with React, Node.js, Express, and Socket.io featuring instant messaging, rooms, persistent history, typing indicators, read receipts, and online status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
